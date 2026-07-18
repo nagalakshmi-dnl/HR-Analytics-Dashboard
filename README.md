@@ -24,7 +24,7 @@ The dashboard was developed using **MySQL for data preparation**, **Power BI for
 
 ## Detailed Employee Analytics
 
-![Detailed Employee Analytics](Images/Details_Employee_Analytics.PNG)
+![Detailed Employee Analytics](Images/Detailed_Employee_Analytics.PNG)
 
 ---
 
