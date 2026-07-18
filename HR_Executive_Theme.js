@@ -1,0 +1,104 @@
+{
+  "name": "HR Executive Theme",
+  "foreground": "#2D3748",
+  "background": "#F7FAFC",
+  "tableAccent": "#2C7A7B",
+  "dataColors": [
+    "#2C7A7B",
+    "#E76F51",
+    "#718096",
+    "#38B2AC",
+    "#4A5568",
+    "#F6AD55",
+    "#319795",
+    "#A0AEC0"
+  ],
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#D6DEE6"
+              }
+            },
+            "radius": 10
+          }
+        ],
+        "title": [
+          {
+            "show": true,
+            "fontFamily": "Segoe UI Semibold",
+            "fontSize": 13,
+            "color": {
+              "solid": {
+                "color": "#1F2937"
+              }
+            },
+            "alignment": "center"
+          }
+        ]
+      }
+    },
+    "card": {
+      "*": {
+        "labels": [
+          {
+            "color": {
+              "solid": {
+                "color": "#2C7A7B"
+              }
+            },
+            "fontSize": 24,
+            "fontFamily": "Segoe UI Semibold"
+          }
+        ],
+        "categoryLabels": [
+          {
+            "color": {
+              "solid": {
+                "color": "#6B7280"
+              }
+            },
+            "fontSize": 9
+          }
+        ]
+      }
+    }
+  },
+  "textClasses": {
+    "title": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 16,
+      "color": "#1F2937"
+    },
+    "header": {
+      "fontFace": "Segoe UI",
+      "fontSize": 13,
+      "color": "#374151"
+    },
+    "callout": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 22,
+      "color": "#2C7A7B"
+    },
+    "label": {
+      "fontFace": "Segoe UI",
+      "fontSize": 10,
+      "color": "#4B5563"
+    }
+  }
+}
