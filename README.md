@@ -18,13 +18,13 @@ The dashboard was developed using **MySQL for data preparation**, **Power BI for
 
 ## Executive Dashboard
 
-![Executive Dashboard](Images/Executive_Dashboard.png)
+![Executive Dashboard](Images/Executive_Dashboard.PNG)
 
 ---
 
 ## Detailed Employee Analytics
 
-![Detailed Employee Analytics](Images/Detailed_Employee_Analytics.png)
+![Detailed Employee Analytics](Images/Details_Employee_Analytics.PNG)
 
 ---
 
